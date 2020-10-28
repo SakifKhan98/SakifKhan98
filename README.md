@@ -45,9 +45,7 @@ I love to work with new technologies and playing with different stacks.🤖
    <li>
      <b>Published: </b> Scientific Research Paper “Application of Machine Learning in Mechanical Engineering” in ICMERE 2019
    </li>
-   <li>
-     <b>1st Runner up:</b> International Business Competition Organized by Hult Prize On Campus Round of Daffodil International University,2019
-   </li>
+
 </ul>
 
 <p align="left">
