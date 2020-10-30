@@ -7,7 +7,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sakifkhan/)
 
 
-:wave: Hi there, My name is Md. Sakif Uddin Khan.😀 I'm 22 years old, I'm a self-taught Web Developer.
+:wave: Hi there, My name is Md. Sakif Uddin Khan.😀
+
+I'm 22 years old, I'm a self-taught Web Developer.
 
 Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, FORTRAN, MATLAB etc. Strong background in project management and customer relations.
 
