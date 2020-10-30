@@ -8,6 +8,7 @@
 
 
 :wave: Hi there, My name is Md. Sakif Uddin Khan.😀 I'm 22 years old, I'm a self-taught Web Developer.
+
 Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, FORTRAN, MATLAB etc. Strong background in project management and customer relations.
 
 Currently, I am completing Undergraduate in Mechanical Engineering from Chittagong University of Engineering & Technology, Chittagong, Bangladesh.
