@@ -1,4 +1,4 @@
-<a target="_blank" href="https://www.sakifkhan.xyz/"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+<a target="_blank" href="https://www.sakifkhan.xyz/"><img width="550" align="right" src="https://i.imgur.com/kuULyJ8.png"></a>
 
 # Md. Sakif Uddin Khan
 
