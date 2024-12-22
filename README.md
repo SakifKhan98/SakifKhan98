@@ -1,6 +1,6 @@
 <a target="_blank" href="https://sakifkhan.xyz/"><img width="448" align="right" src="https://i.ibb.co/wJWv8n6/Mechanica-L-Roots-Digital-Wings.png"></a>
 
-# Md Sakif Uddin Khan
+<h1> Md Sakif Uddin Khan</h1>
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sakifkhan98@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sakifkhan/)
